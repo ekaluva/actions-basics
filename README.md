@@ -9,3 +9,4 @@
 3. Click **Create repository from template**
 4. Once completed, you can try out the different workflows 🚀
     - :bulb: Check the event triggers in each workflow (keyword: `on`) to check how they can be triggered
+[![Output context](https://github.com/ekaluva/actions-basics/actions/workflows/basic.yml/badge.svg)](https://github.com/ekaluva/actions-basics/actions/workflows/basic.yml)
